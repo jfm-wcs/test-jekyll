@@ -54,4 +54,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-url: "https://jfm-wcs.github.io/test-jekyll"  # the base hostname and protocol for your site, e.g. http://example.com
+url: "https://jfm-wcs.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: "/test-jekyll"      # place folder name if the site is served in a subfolder
